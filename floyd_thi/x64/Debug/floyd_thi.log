@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\DELL\Desktop\floyd_thi\floyd_thi\Source.cpp(8,9): warning C4101: 'j': unreferenced local variable
+C:\Users\DELL\Desktop\floyd_thi\floyd_thi\Source.cpp(8,6): warning C4101: 'i': unreferenced local variable
+  floyd_thi.vcxproj -> C:\Users\DELL\Desktop\floyd_thi\x64\Debug\floyd_thi.exe
